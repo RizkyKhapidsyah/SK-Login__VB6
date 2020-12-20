@@ -1,0 +1,28 @@
+Line 17: Class MSComctlLib.ListView of control lstLog was not a loaded control class.
+Line 50: Class MSComctlLib.Toolbar of control tbrMain was not a loaded control class.
+Line 77: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 23: The property name _ExtentX in lstLog is invalid.
+Line 24: The property name _ExtentY in lstLog is invalid.
+Line 25: The property name View in lstLog is invalid.
+Line 26: The property name LabelEdit in lstLog is invalid.
+Line 27: The property name LabelWrap in lstLog is invalid.
+Line 28: The property name HideSelection in lstLog is invalid.
+Line 29: The property name _Version in lstLog is invalid.
+Line 34: The property name NumItems in lstLog is invalid.
+Line 38: The property name ColumnHeader(1) in lstLog is invalid.
+Line 43: The property name ColumnHeader(2) in lstLog is invalid.
+Line 48: The property name ColumnHeader(3) in lstLog is invalid.
+Line 57: The property name _ExtentX in tbrMain is invalid.
+Line 58: The property name _ExtentY in tbrMain is invalid.
+Line 59: The property name ButtonWidth in tbrMain is invalid.
+Line 60: The property name AllowCustomize in tbrMain is invalid.
+Line 62: The property name ImageList in tbrMain is invalid.
+Line 63: The property name _Version in tbrMain is invalid.
+Line 75: The property name Buttons in tbrMain is invalid.
+Line 80: The property name _ExtentX in ImageList2 is invalid.
+Line 81: The property name _ExtentY in ImageList2 is invalid.
+Line 83: The property name ImageWidth in ImageList2 is invalid.
+Line 84: The property name ImageHeight in ImageList2 is invalid.
+Line 85: The property name MaskColor in ImageList2 is invalid.
+Line 86: The property name _Version in ImageList2 is invalid.
+Line 129: The property name Images in ImageList2 is invalid.

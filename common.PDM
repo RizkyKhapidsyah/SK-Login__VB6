@@ -1,0 +1,222 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\AVT\Common\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+Crystal=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\crpe32.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+C:\AVT\Common\reject_log.rpt=
+C:\AVT\Common\v40.txt=
+C:\AVT\Common\wiperror.rpt=
+C:\AVT\Common\wipexportdetail.rpt=
+C:\AVT\Common\wipexportsummary.rpt=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\AVT\Common\pa_abra.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\rdocurs.dll=Yes
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\dbgrid32.ocx=Yes
+C:\WINDOWS\SYSTEM\crystl32.ocx=Yes
+C:\WINDOWS\SYSTEM\crpe32.dll=Yes
+C:\WINDOWS\SYSTEM\implode.dll=Yes
+C:\WINDOWS\SYSTEM\crpaig32.dll=Yes
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM\MFC42.DLL=Yes
+C:\WINDOWS\Crystal\crxlat32.dll=Yes
+C:\WINDOWS\SYSTEM\p2bbde.dll=Yes
+C:\WINDOWS\SYSTEM\p2bbnd.dll=Yes
+C:\WINDOWS\SYSTEM\p2bdao.dll=Yes
+C:\WINDOWS\SYSTEM\p2bxbse.dll=Yes
+C:\WINDOWS\SYSTEM\p2ctdao.dll=Yes
+C:\WINDOWS\SYSTEM\p2irdao.dll=Yes
+C:\WINDOWS\SYSTEM\P2sifmx.dll=Yes
+C:\WINDOWS\SYSTEM\p2smon.dll=Yes
+C:\WINDOWS\SYSTEM\p2sodbc.dll=Yes
+C:\WINDOWS\SYSTEM\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\SYSTEM\P2ssyb10.dll=Yes
+C:\WINDOWS\SYSTEM\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u25store.dll=Yes
+C:\WINDOWS\Crystal\u25total.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\AVT\Common\reject_log.rpt=Yes
+C:\AVT\Common\v40.txt=Yes
+C:\AVT\Common\wiperror.rpt=Yes
+C:\AVT\Common\wipexportdetail.rpt=Yes
+C:\AVT\Common\wipexportsummary.rpt=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\AVT\Common\pa_abra.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\rdocurs.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\dbgrid32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\implode.dll=$(AppPath)
+C:\WINDOWS\SYSTEM\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MFC42.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25store.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25total.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\AVT\Common\reject_log.rpt=$(AppPath)
+C:\AVT\Common\v40.txt=$(AppPath)
+C:\AVT\Common\wiperror.rpt=$(AppPath)
+C:\AVT\Common\wipexportdetail.rpt=$(AppPath)
+C:\AVT\Common\wipexportsummary.rpt=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\AVT\Common\pa_abra.exe=No
+C:\WINDOWS\SYSTEM\implode.dll=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u25store.dll=No
+C:\WINDOWS\Crystal\u25total.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\AVT\Common\reject_log.rpt=No
+C:\AVT\Common\v40.txt=No
+C:\AVT\Common\wiperror.rpt=No
+C:\AVT\Common\wipexportdetail.rpt=No
+C:\AVT\Common\wipexportsummary.rpt=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=PA/ABRA Interface
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=PA/ABRA Interface
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|PA/ABRA Interface]
+Icon1=pa_abra.exe
+Title1=PA/ABRA Interface
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\AVT\Common\Package
+ProjectFolder=C:\AVT\Common
+ServerSideCab=
+File1=C:\AVT\Common\Package\setup.exe
+File2=C:\AVT\Common\Package\Setup.Lst
+File3=C:\AVT\Common\Package\pa_abra.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

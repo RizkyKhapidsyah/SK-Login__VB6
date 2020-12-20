@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[common.vbp]
+SCC_Aux_Path = \\DLSNWPRD\SYS1\Data\BTS\Visual Source Safe\vss
+SCC_Project_Name = this project is not under source code control
